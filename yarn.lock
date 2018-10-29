@@ -1248,9 +1248,9 @@ capture-stack-trace@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/capture-stack-trace/-/capture-stack-trace-1.0.0.tgz#4a6fa07399c26bba47f0b2496b4d0fb408c5550d"
 
-carbon-components@^9.0.0:
-  version "9.26.1"
-  resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-9.26.1.tgz#2bf25d4452a140aad78f4f5f231b6e628e1c748c"
+carbon-components@^9.41.0:
+  version "9.41.0"
+  resolved "https://registry.yarnpkg.com/carbon-components/-/carbon-components-9.41.0.tgz#7fe2beb1cfe086566460844e6612328748d79cc9"
   dependencies:
     "@carbon/colors" "^0.0.1-alpha.0"
     carbon-icons "^7.0.7"
